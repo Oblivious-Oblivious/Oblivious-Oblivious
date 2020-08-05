@@ -3,7 +3,7 @@
 ## I'm a student majoring in Computer Science and Engineering!
 - 🤔 I do code
 - 🎧 I do music
-- 🍹 And the occasional cocktail
+- 💻 I do reinvent the wheel
 
 ## Connect with me:
 
