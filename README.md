@@ -25,8 +25,8 @@
 <img align="left" alt="Kotlin" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/kotlin.png" />
 <img align="left" alt="Scala" width="20px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/scala.png" />
 <img align="left" alt="Ocaml" width="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/ocaml.png" />
-<br />
 <img align="left" alt="Haskell" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/haskell.png" />
+<br />
 <img align="left" alt="Lisp" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/lisp.png" />
 <img align="left" alt="Python" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/python.png" />
 <img align="left" alt="Go" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" />
