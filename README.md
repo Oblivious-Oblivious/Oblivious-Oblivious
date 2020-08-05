@@ -12,8 +12,7 @@
 [<img align="left" alt="Oblivious | Instagram" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
----
+<br />
 
 ## Multilingual:
 
@@ -44,6 +43,8 @@
 <img align="left" alt="Node.js" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/node.png" />
 <img align="left" alt="Angular" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/angular.png" />
 
+<br />
+<br />
 <br />
 <br />
 
