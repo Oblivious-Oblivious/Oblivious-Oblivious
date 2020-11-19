@@ -1,6 +1,6 @@
 ### I am Thanassis - aka `Oblivious` 👋
 
-## I'm a student majoring in Computer Science and Engineering!
+## csuoi 🎓
 - 🤔 I do code
 - 🎧 I do music
 - 💻 I do reinvent the wheel
