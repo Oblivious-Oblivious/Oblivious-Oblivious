@@ -27,7 +27,6 @@
 <img align="left" alt="Scala" width="20px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/scala.png" />
 <img align="left" alt="Ocaml" width="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/ocaml.png" />
 <img align="left" alt="Haskell" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/haskell.png" />
-<br />
 <img align="left" alt="Lisp" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/lisp.png" />
 <img align="left" alt="Python" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/python.png" />
 <img align="left" alt="Go" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" />
@@ -37,7 +36,6 @@
 <img align="left" alt="x86" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/assembly.png" />
 <img align="left" alt="Arm" width="42px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
 <img align="left" alt="Mips" width="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
-<br />
 <img align="left" alt="HTML5" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/html.png" />
 <img align="left" alt="CSS3" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/css.png" />
 <img align="left" alt="Sass" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/sass.png" />
