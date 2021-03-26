@@ -45,9 +45,8 @@
 <img align="left" alt="Bootstrap" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bootstrap.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/javascript.jpg" />
 <img align="left" alt="Node.js" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/node.png" />
-<br />
-<img align="left" alt="Deno" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
 <img align="left" alt="Mint" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
+<img align="left" alt="Deno" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
 <img align="left" alt="Angular" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/angular.png" />
 <img align="left" alt="Mongo" width="70px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mongo.png" />
 
