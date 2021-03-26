@@ -22,33 +22,33 @@
 <img align="left" alt="Crystal" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/crystal.png" />
 <img align="left" alt="Elixir" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/elixir.png" />
 <img align="left" alt="Erlang" width="70px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
-<img align="left" alt="Java" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
+<img align="left" alt="Java" width="55px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
 <img align="left" alt="Kotlin" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/kotlin.png" />
 <img align="left" alt="Scala" width="20px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/scala.png" />
 <img align="left" alt="Ocaml" width="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/ocaml.png" />
 <img align="left" alt="Haskell" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/haskell.png" />
 <br />
-<img align="left" alt="Lisp" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/lisp.png" />
+<img align="left" alt="Lisp" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/lisp.png" />
 <img align="left" alt="Python" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/python.png" />
 <img align="left" alt="Go" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" />
 <img align="left" alt="Perl" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/perl.png" />
 <img align="left" alt="Objective_c" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" />
 <img align="left" alt="smalltalk" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/smalltalk.jpeg" />
 <img align="left" alt="x86" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/assembly.png" />
-<img align="left" alt="Arm" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
-<img align="left" alt="Mips" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
+<img align="left" alt="Arm" width="42px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
+<img align="left" alt="Mips" width="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
 </br>
 <img align="left" alt="HTML5" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/html.png" />
 <img align="left" alt="CSS3" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/css.png" />
 <img align="left" alt="Sass" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/sass.png" />
-<img align="left" alt="Bulma" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" />
+<img align="left" alt="Bulma" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" />
 <img align="left" alt="Bootstrap" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bootstrap.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/javascript.jpg" />
 <img align="left" alt="Node.js" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/node.png" />
-<img align="left" alt="Deno" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
+<img align="left" alt="Deno" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
 <img align="left" alt="Mint" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
 <img align="left" alt="Angular" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/angular.png" />
-<img align="left" alt="Mongo" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mongo.png" />
+<img align="left" alt="Mongo" width="70px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mongo.png" />
 
 <br />
 <br />
