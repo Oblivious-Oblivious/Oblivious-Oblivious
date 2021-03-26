@@ -16,38 +16,38 @@
 
 ## I know some Spanish and:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/crystal/crystal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/crystal/crystal.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png">
 <img align="left" alt="Erlang" width="70px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
-<code><img align="left" alt="Java" width="55px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img align="left" alt="Go" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" /></code>
-<code><img align="left" alt="Perl" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/perl.png" /></code>
-<code><img align="left" alt="Objective_c" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" /></code>
-<code><img align="left" alt="smalltalk" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/smalltalk.jpeg" /></code>
-<code><img align="left" alt="x86" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/assembly.png" /></code>
-<code><img align="left" alt="Arm" width="42px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" /></code>
-<code><img align="left" alt="Mips" width="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img align="left" alt="Bulma" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img align="left" alt="Deno" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" /></code>
-<code><img align="left" alt="Mint" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<img align="left" alt="Java" width="55px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" alt="Go" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" />
+<img align="left" alt="Perl" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/perl.png" />
+<img align="left" alt="Objective_c" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" />
+<img align="left" alt="smalltalk" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/smalltalk.jpeg" />
+<img align="left" alt="x86" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/assembly.png" />
+<img align="left" alt="Arm" width="42px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
+<img align="left" alt="Mips" width="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+<img align="left" alt="Bulma" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" />
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="left" alt="Deno" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
+<img align="left" alt="Mint" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 
 <!-- <code><img align="left" alt="C" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c.png" /></code>
 <code><img align="left" alt="C++" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/cpp.png" /></code>
