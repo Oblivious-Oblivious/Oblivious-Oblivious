@@ -17,7 +17,7 @@
 ## I know some Spanish and:
 
 <img align="left" alt="Erlang" width="70px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
-<img align="left" alt="Java" width="55px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
+<img align="left" alt="Java" width="65px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
 <img align="left" alt="Go" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" />
 <img align="left" alt="Perl" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/perl.png" />
 <img align="left" alt="Objective_c" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" />
@@ -33,7 +33,7 @@
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/crystal/crystal.png">
-<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png">
+<img align="left" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png">
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png">
@@ -48,7 +48,7 @@
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+<img align="left" height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 
 <!-- <code><img align="left" alt="C" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c.png" /></code>
 <code><img align="left" alt="C++" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/cpp.png" /></code>
