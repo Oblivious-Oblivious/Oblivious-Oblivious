@@ -1,4 +1,4 @@
-### I am Thanassis - aka `Oblivious` 👋
+### I am Thanasis - aka `Oblivious` 👋
 
 ## csuoi 🎓
 - 💻 I do code
