@@ -24,7 +24,7 @@
 <img align="left" height="45" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/crystal.png" />
 <img align="left" height="40" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
 <img align="left" height="47" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/elixir.png" />
-<img align="left" width="50" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
+<img align="left" width="70" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
 <img align="left" height="40" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/kotlin.png" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/scala.png" />
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png">
