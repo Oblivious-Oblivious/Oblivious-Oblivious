@@ -16,19 +16,19 @@
 
 ## I know some Spanish and:
 
-<img align="left" alt="Erlang" width="70px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
+<!-- <img align="left" alt="Erlang" width="70px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
 <img align="left" alt="smalltalk" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/smalltalk.jpeg" />
-<!-- <img align="left" alt="Go" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" /> -->
+<img align="left" alt="Go" width="34px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" />
 <img align="left" alt="Perl" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/perl.png" />
-<!-- <img align="left" alt="Objective_c" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" /> -->
+<img align="left" alt="Objective_c" width="40px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" />
 <img align="left" alt="Java" width="55px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
 <img align="left" alt="x86" width="37px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/assembly.png" />
 <img align="left" alt="Arm" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
 <img align="left" alt="Mips" width="55px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
 <img align="left" alt="Bulma" width="64px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" />
 <img align="left" alt="Deno" width="45px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
-<img alt="Mint" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
-<br />
+<img alt="Mint" width="60px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" /> -->
+<!-- <br /> -->
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
 <img align="left" height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png">
