@@ -54,8 +54,6 @@
 <img height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mongodb.png" />
 
 <br />
-<br />
-<br />
 
 <img align="left" alt="Oblivious's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Oblivious-Oblivious&show_icons=true&hide_border=true" />
 
