@@ -16,7 +16,7 @@
 
 ## I know some Spanish and:
 
-<img align="left" height="30" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
+<img align="left" height="30" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang2.png" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/smalltalk.jpeg" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/perl.png" />
 <!-- <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" /> -->
