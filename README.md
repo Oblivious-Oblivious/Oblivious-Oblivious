@@ -16,16 +16,16 @@
 
 ## I know some Spanish and:
 
-<img align="left" height="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
+<img align="left" height="30px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
 <img align="left" height="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/smalltalk.jpeg" />
 <!-- <img align="left" height="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" /> -->
 <img align="left" height="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/perl.png" />
 <!-- <img align="left" height="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" /> -->
 <img align="left" height="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
 <img align="left" height="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/assembly.png" />
-<img align="left" height="30px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
-<img align="left" height="30px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
-<img align="left" height="30px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" />
+<img align="left" height="20px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
+<img align="left" height="20px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
+<img align="left" height="20px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" />
 <img align="left" height="50px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
 <img alt="Mint" width="65px" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
 <!-- <br /> -->
