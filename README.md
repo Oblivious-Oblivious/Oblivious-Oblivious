@@ -23,7 +23,7 @@
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/assembly.png" />
 <img align="left" height="20" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
-<img align="left" height="20" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
+<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
 <img align="left" height="20" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
 <img alt="Mint" width="65" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
