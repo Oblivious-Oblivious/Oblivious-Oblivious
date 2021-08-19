@@ -16,16 +16,16 @@
 
 ## I know some Spanish and:
 
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c++.png">
-<img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" />
-<img align="left" height="48" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/swift.png" />
-<img align="left" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
-<img align="left" height="45" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/crystal.png" />
-<img align="left" height="40" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
+<img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c.png" />
+<img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c++.png">
+<img align="left" height="60" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" />
+<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/swift.png" />
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
+<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/crystal.png" />
+<img align="left" height="45" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
 <img align="left" height="47" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/elixir.png" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
-<img align="left" height="40" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/kotlin.png" />
+<img align="left" height="45" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/kotlin.png" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/scala.png" />
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png">
 
