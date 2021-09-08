@@ -51,8 +51,7 @@
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/angular.png" />
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/svelte.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
-<img height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mongodb.png" />
+<img height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
 
 <br />
 
