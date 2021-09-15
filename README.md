@@ -5,6 +5,10 @@
 - 🎧 I do music
 - 🤔 I do reinvent the wheel
 
+## Emeralds Framework
+High performance experiments:
+<a href="https://github.com/EmeraldsFramework">Emeralds Framework</a>
+
 ## Connect with me:
 
 [<img align="left" alt="Oblivious | Twitter" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
