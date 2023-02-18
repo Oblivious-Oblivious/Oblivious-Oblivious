@@ -11,9 +11,9 @@ High performance experiments:
 
 ## Connect with me:
 
-[<img align="left" alt="Oblivious | Twitter" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Oblivious | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Oblivious | Instagram" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Oblivious | Twitter" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
