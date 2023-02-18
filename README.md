@@ -7,7 +7,7 @@
 
 ## Emeralds Framework
 High performance experiments:
-<a href="https://github.com/EmeraldsFramework">Emeralds Framework</a>
+<a href="https://github.com/Oblivious-Oblivious/Emeralds">Emeralds Framework</a>
 
 ## Connect with me:
 
