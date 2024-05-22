@@ -57,8 +57,6 @@ High performance experiments:
 <img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/svelte.png" />
 <img height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
 
-<br />
-
 [twitter]: https://www.twitter.com/itsoblivious99
 [linkedin]: https://www.linkedin.com/in/thanasis-papapostolou/
 [instagram]: https://www.instagram.com/thanasis_papap/
