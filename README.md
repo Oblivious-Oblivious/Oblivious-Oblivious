@@ -59,8 +59,6 @@ High performance experiments:
 
 <br />
 
-<img align="left" alt="Oblivious's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Oblivious-Oblivious&show_icons=true&hide_border=true" />
-
 [twitter]: https://www.twitter.com/itsoblivious99
 [linkedin]: https://www.linkedin.com/in/thanasis-papapostolou/
 [instagram]: https://www.instagram.com/thanasis_papap/
