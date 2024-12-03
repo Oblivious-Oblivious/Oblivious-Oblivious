@@ -1,6 +1,5 @@
 ### I am Athanasios - aka `oblivious` 👋
 
-## csuoi 🎓
 - 💻 I do code
 - 🎧 I do music
 - 🤔 I do reinvent the wheel
