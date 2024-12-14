@@ -18,7 +18,7 @@ High performance experiments:
 <br />
 <br />
 
-## I know some Spanish and:
+## I like coding in:
 
 <img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c.png" />
 <img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c++.png">
