@@ -1,8 +1,8 @@
 ### I am Athanasios - aka `oblivious` 👋
 
-- 💻 I do code
-- 🎧 I do music
-- 🤔 I do reinvent the wheel
+- 💻 I code
+- 🎧 I play music
+- 🤔 I reinvent the wheel
 
 ## Fourth Wall
 High performance experiments:
