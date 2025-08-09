@@ -1,17 +1,17 @@
-### I am Athanasios - aka `oblivious` 👋
+### i am atha - aka `oblivious` 👋
 
-- 💻 I code
-- 🎧 I play music
-- 🤔 I reinvent the wheel
+- 💻 i code
+- 🎧 i play music
+- ⚙️ i reinvent the wheel
 
 ## Fourth Wall
-Organization:
+organization:
 <a href="https://github.com/orgs/The-Fourth-Wall/repositories">The-Fourth-Wall</a>
 
-High performance experiments:
+high performance experiments:
 <a href="https://github.com/Oblivious-Oblivious/Emeralds">Emeralds</a>
 
-## Connect with me:
+## connect with me:
 
 [<img align="left" alt="Oblivious | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Oblivious | Instagram" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -20,7 +20,7 @@ High performance experiments:
 <br />
 <br />
 
-## I like coding in:
+## i like coding in:
 
 <img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c.png" />
 <img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c++.png">
