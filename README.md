@@ -6,7 +6,7 @@
 
 ## Fourth Wall
 organization:
-<a href="https://github.com/orgs/The-Fourth-Wall/repositories">The-Fourth-Wall</a>
+<a href="https://github.com/orgs/byfourthwall/repositories">Fourth Wall</a>
 
 high performance experiments:
 <a href="https://github.com/Oblivious-Oblivious/Emeralds">Emeralds</a>
