@@ -9,7 +9,7 @@ organization:
 <a href="https://github.com/orgs/byfourthwall/repositories">Fourth Wall</a>
 
 high performance experiments:
-<a href="https://github.com/Oblivious-Oblivious/emeralds">emeralds</a>
+<a href="https://github.com/Oblivious-Oblivious/Emeralds">Emeralds</a>
 
 ## connect with me:
 
