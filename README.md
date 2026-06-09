@@ -1,8 +1,8 @@
 ### I am atha.
 
-- 💻 I code.
-- 🎧 I play music.
-- ⚙️ I reinvent the wheel.
+- I code.
+- I play music.
+- I reinvent the wheel.
 
 ## Fourth Wall
 
@@ -27,7 +27,7 @@ high performance experiments:
 ![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FOblivious-Oblivious%2FOblivious-Oblivious%2Fmaster%2Ficons%2Fjava.svg&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=https://raw.githubusercontent.com/Oblivious-Oblivious/Oblivious-Oblivious/master/icons/java.svg&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
