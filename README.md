@@ -17,9 +17,6 @@ high performance experiments:
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
-<br />
-<br />
-
 ## I know some Spanish and:
 
 ![C](https://img.shields.io/badge/C-%23283593.svg?style=for-the-badge&logo=c&logoColor=white)
