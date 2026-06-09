@@ -1,64 +1,64 @@
-### i am atha - aka `oblivious` 👋
+### I am atha.
 
-- 💻 i code
-- 🎧 i play music
-- ⚙️ i reinvent the wheel
+- 💻 I code.
+- 🎧 I play music.
+- ⚙️ I reinvent the wheel.
 
 ## Fourth Wall
+
 organization:
-<a href="https://github.com/orgs/byfourthwall/repositories">Fourth Wall</a>
+<a href="https://github.com/byfourthwall">Fourth Wall</a>
 
 high performance experiments:
 <a href="https://github.com/Oblivious-Oblivious/Emeralds">Emeralds</a>
 
-## connect with me:
+## Connect with me:
 
-[<img align="left" alt="Oblivious | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Oblivious | Instagram" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Oblivious | Twitter" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)][twitter]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 <br />
 <br />
 
-## i like coding in:
+## I know some Spanish and:
 
-<img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c.png" />
-<img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/c++.png">
-<img align="left" height="60" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/objective_c.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/swift.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/ruby.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/crystal.png" />
-<img align="left" height="45" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/erlang.png" />
-<img align="left" height="47" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/elixir.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/java.png" />
-<img align="left" height="45" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/kotlin.png" />
-<img height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/scala.png" />
+![C](https://img.shields.io/badge/C-%23283593.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Crystal](https://img.shields.io/badge/Crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-%23A8B9CC.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FOblivious-Oblivious%2FOblivious-Oblivious%2Fmaster%2Ficons%2Fjava.svg&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![APL](https://img.shields.io/badge/APL-%2324A148.svg?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FOblivious-Oblivious%2FOblivious-Oblivious%2Fmaster%2Ficons%2Fapl.svg&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-%23EC6813.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-%235881D8.svg?style=for-the-badge&logo=clojure&logoColor=white)
+![Smalltalk](https://img.shields.io/badge/Smalltalk-%23596706.svg?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FOblivious-Oblivious%2FOblivious-Oblivious%2Fmaster%2Ficons%2Fsmalltalk.svg&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-%23164A7E.svg?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FOblivious-Oblivious%2FOblivious-Oblivious%2Fmaster%2Ficons%2Fprolog.svg&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Julia](https://img.shields.io/badge/Julia-%239558B2.svg?style=for-the-badge&logo=julia&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-%230073A1.svg?style=for-the-badge&logo=perl&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
+![MIPS](https://img.shields.io/badge/MIPS-%23A2C02F.svg?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FOblivious-Oblivious%2FOblivious-Oblivious%2Fmaster%2Ficons%2Fmips.svg&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![SolidJS](https://img.shields.io/badge/SolidJS-%232C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white)
+![Mint](https://img.shields.io/badge/Mint-%2336A65D.svg?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2FOblivious-Oblivious%2FOblivious-Oblivious%2Fmaster%2Ficons%2Fmint.svg&logoColor=white)
 
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/ocaml.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/haskell.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/clojure.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/smalltalk.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/prolog.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/python.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/go.png" />
-<img align="left" height="55" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/perl.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/assembly.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/arm.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mips.png" />
-<img height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/html.png" />
-
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/css.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/sass.png" />
-<img align="left" height="20" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bulma.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/bootstrap.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/javascript.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/typescript.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/nodejs.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/deno.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/angular.png" />
-<img align="left" height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/svelte.png" />
-<img height="50" src="https://github.com/Oblivious-Oblivious/Oblivious-Oblivious/blob/master/mint.png" />
-
-[twitter]: https://www.twitter.com/itsoblivious99
-[linkedin]: https://www.linkedin.com/in/thanasis-papapostolou/
-[instagram]: https://www.instagram.com/thanasis_papap/
+[twitter]: https://x.com/itsatha__
+[instagram]: https://www.instagram.com/athapapap/
